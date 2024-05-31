@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.loader,
+.error {
+  display: none;
+  font-size: 18px;
+  color: red;
+}
+
+.breed-select {
+  display: none;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.country-info {
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.country-info img {
+  display: block;
+  margin-bottom: 20px;
+}
